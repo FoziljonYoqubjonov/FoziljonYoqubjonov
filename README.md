@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+## I'm a Pupil , Teacher and a FrontEnd Developer!!
 
 - 🔭 I’m currently working on something cool 😊;
 - 🌱 I’m currently learning Competitive programming basics;
