@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I spend a lot of hours for learning FrontEnd Development.
 
+<img src="https://github-readme-stats.vercel.app/api?username=FoziljonYoqubjonov&show_icons=true&theme=radical">
