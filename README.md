@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## I'm a Pupil , Teacher and a FrontEnd Developer!!
+## I'm a Pupil , Teacher , FrontEnd and Competetive Programmer !!!
 
 - 🔭 I’m currently working on something cool 😊;
 - 🌱 I’m currently learning Competitive programming basics;
